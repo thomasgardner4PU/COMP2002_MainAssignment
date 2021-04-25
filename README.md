@@ -12,9 +12,9 @@ sklearn
 numpty
 
 
-Link to install Python here - 
+Link to install Python here - https://www.python.org/downloads/
 
-Link to install Jupyter Notebook via Pip using command line here - 
+Link to install Jupyter Notebook via Pip using command line here - https://jupyter.org/install
 
 
 All work committed to this repository is my own. 
